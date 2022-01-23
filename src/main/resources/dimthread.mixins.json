@@ -4,7 +4,6 @@
   "package": "wearblackallday.dimthread.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "EntityMixin",
     "MinecraftServerMixin",
     "RedstoneWireBlockMixin",
     "ServerChunkManagerMixin",
